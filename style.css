@@ -7,7 +7,6 @@
     --branco: #ffffff;
     --laranja: #eb9b00;
   }
-}
 
 body {
     background-color: var(--cor-de-fundo);
